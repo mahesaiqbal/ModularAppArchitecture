@@ -1,0 +1,2 @@
+include ':app', ':news_feature'
+rootProject.name='Modular App Architecture'
